@@ -1,9 +1,9 @@
 ---
-hp5_content_id: ''
 title: 'Modular Page'
 published: true
 body_classes: modular
 visible: false
+hp5_content_id: ''
 content:
     items: '@self.modular'
     order:
