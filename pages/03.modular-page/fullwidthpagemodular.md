@@ -1,5 +1,9 @@
 ---
+hp5_content_id: ''
 title: 'Modular Page'
+published: true
+body_classes: modular
+visible: false
 content:
     items: '@self.modular'
     order:
@@ -12,7 +16,6 @@ content:
             - _cc-by-nc-nd
             - _cc-by-nc-sa
             - _cc-by-nd
-body_classes: modular
 onpage_menu: false
 ---
 
