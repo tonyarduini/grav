@@ -3,6 +3,8 @@ title: 'Modular Page'
 content:
     items: '@self.modular'
     order:
+        by: ''
+        dir: ''
         custom:
             - _cc-by
             - _cc-by-sa
